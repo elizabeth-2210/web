@@ -1,0 +1,13 @@
+*{
+    font-family: 'Oswald', sans-serif;
+}
+h1{
+    background-color: blueviolet;
+    border-radius: 10px;
+    text-align: center;
+}
+ul{
+    background-color: black;
+    width: 100px;
+    color: aliceblue;
+}
